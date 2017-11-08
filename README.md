@@ -1,0 +1,1 @@
+# 3_flavors_heritability_stata_code
